@@ -1,1 +1,1 @@
-# OSCP-preperation materials.
+# OSCP-preparation materials.
